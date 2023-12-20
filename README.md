@@ -81,6 +81,7 @@ In February of 2022, annual members accounted for the majority of the rides, rep
 
 #### 2. Proportion of Rides by Bike Type
 The analysis of bike types reveals that annual members have a higher percentage of using classic bikes compared to casual riders. Additionally, annual members show a greater preference for electric bikes compared to casual riders. However, when it comes to docked bikes, casual riders demonstrate a higher inclination towards using them compared to annual members.
+
 ![image](https://github.com/Nick-Sierra/Nick-Sierra.Excel.Cyclistic/assets/149681943/a6e9e400-0741-402b-811c-e6d35fe4d659)
 
 
