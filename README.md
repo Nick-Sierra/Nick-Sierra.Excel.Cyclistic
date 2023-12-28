@@ -17,7 +17,7 @@ recommendations, so your recomendations must be backed up with compelling data i
 - Data Cleaning & Analysis: Microsoft Excel 
 - Visualization: Tableau Public
 
-  ## Lets Use the 6 Data Analysis Phases
+## Lets Use the 6 Data Analysis Phases
 ### Ask Phase:
 To address the business task of understanding how annual members and casual riders use Cyclistic bikes differently, lets ask some questions to guide our analysis:
 
